@@ -32,7 +32,7 @@ class CalculatorTest {
     }
 
     @Test
-    @DisplayName("계산기 연산 실패 테스트 : 분모가 0일 경우")
+    @DisplayName("계산기 연산 실패 테스트 : 분모가 0일 경우 ")
     void test1_1() {
         // given
         int num1 = 5;
